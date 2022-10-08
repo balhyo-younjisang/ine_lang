@@ -1,4 +1,5 @@
 # vo_ine-lang
+[엄랭](https://github.com/rycont/umjunsik-lang) 코드 기반
 
 ## 자료형
 
