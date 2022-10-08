@@ -29,6 +29,4 @@
 
 확장자 : .ine
 One-line 작성은 \n을 ~로 치환
-# ine_lang
-# ine_lang
-# ine_lang
+
